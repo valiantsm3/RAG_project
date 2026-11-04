@@ -26,7 +26,7 @@ outputs/
 
 # Local data
 data/*
-!data/.gitkeep
+
 
 # Jupyter
 .ipynb_checkpoints/
