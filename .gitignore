@@ -24,8 +24,6 @@ summary_cache/
 # Generated outputs
 outputs/
 
-# Local data
-data/*
 
 
 # Jupyter
